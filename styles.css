@@ -5,18 +5,18 @@
   border: 1px solid black;
 }
 
-.red {
+#redCube, #red {
   background-color: red;
 }
 
-.yellow {
+#yellowCube, #yellow {
   background-color: yellow;
 }
 
-.green {
+#greenCube, #green {
   background-color: green;
 }
 
-.blue {
+#blueCube, #blue {
   background-color: blue;
 }
